@@ -101,3 +101,10 @@
 1. Автор **не несёт ответственности** за баны, разбаны, беспруф-баны или любые последствия
 2. Все риски — на тебе
 3. Используешь на свой страх и риск
+
+## Фотка меню/пруф что оно чистит
+
+<img width="826" height="510" alt="image" src="https://github.com/user-attachments/assets/f29b7d9a-2384-4405-9a21-2e6cd83715a5" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a55c130b-64ed-439c-b487-6aa2edc206fc" />
